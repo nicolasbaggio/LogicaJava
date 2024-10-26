@@ -93,15 +93,6 @@ cd EstudosJava
 
 ## 📈 Próximos Passos
 
-- **Estruturas de Repetição**
-  - While
-  - Do-While
-  - For
-     
-- **Arrays**
-  - Declaração e inicialização
-  - Manipulação de arrays
-
 - **Orientação a Objetos**
   - Classes e Objetos
   - Herança
