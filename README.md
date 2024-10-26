@@ -120,7 +120,7 @@ Este projeto é baseado no curso da DevDojo Academy, reconhecida por seu conteú
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](MIT_License.txt) para detalhes.
 
 ---
 
