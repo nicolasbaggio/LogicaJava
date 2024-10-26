@@ -33,7 +33,7 @@ Este repositório documenta minha jornada de aprendizado em Java através do cur
   - Convenções de nomenclatura
   - Boas práticas
 
-### Estruturas de Controle
+### Estruturas Condicionais
 - **If/Else**
   - Condicionais simples e compostas
   - Operadores lógicos
