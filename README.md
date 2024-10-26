@@ -16,6 +16,8 @@ Este repositório documenta minha jornada de aprendizado em Java através do cur
  ┃     ┣ 📂 estruturas condicionais
  ┃     ┃ ┣ 📂 ifelse
  ┃     ┃ ┗ 📂 switchcase
+ ┃     ┃ 📂 lacosderepeticao
+ ┃     ┃ ┗ 📂 whiles
  ┃     ┗ 📂 variaveis
 ```
 
@@ -38,6 +40,20 @@ Este repositório documenta minha jornada de aprendizado em Java através do cur
   - Estruturas de múltipla escolha
   - Casos de uso apropriados
   - Comparação com if/else
+ 
+### Estruturas de Repetição
+- **Laços de Repetição**
+  - **While**
+    - Estrutura básica
+    - Exemplos práticos
+      
+  - **Do-While**
+    - Diferenças em relação ao while
+    - Exemplos práticos
+      
+  - **For**
+    - Estrutura básica
+    - Variações de uso
 
 ## 💻 Como Executar
 
@@ -55,14 +71,30 @@ cd EstudosJava
 
 ## 📈 Próximos Passos
 
-- Estruturas de Repetição
-  - While, Do-While
+- **Estruturas de Repetição**
+  - While
+  - Do-While
   - For
-- Arrays
-- Orientação a Objetos
-- Collections
-- Exceções
-- E muito mais conforme o avanço no curso
+     
+- **Arrays**
+  - Declaração e inicialização
+  - Manipulação de arrays
+
+- **Orientação a Objetos**
+  - Classes e Objetos
+  - Herança
+  - Polimorfismo
+
+- **Collections**
+  - Listas
+  - Conjuntos
+  - Mapas
+    
+- **Exceções**
+  - Tratamento de exceções
+  - Criação de exceções personalizadas
+
+- **E muito mais conforme o avanço no curso**
 
 ## 🎓 Recursos de Aprendizado
 
