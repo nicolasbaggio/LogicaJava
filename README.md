@@ -16,9 +16,12 @@ Este repositório documenta minha jornada de aprendizado em Java através do cur
  ┃     ┣ 📂 estruturas condicionais
  ┃     ┃ ┣ 📂 ifelse
  ┃     ┃ ┗ 📂 switchcase
+ ┃     ┗ 📂 exercicios
  ┃     ┃ 📂 lacosderepeticao
+ ┃     ┃ ┗ 📂 fors
  ┃     ┃ ┗ 📂 whiles
  ┃     ┗ 📂 variaveis
+ ┃     ┗ 📂 vetoresouarrays
 ```
 
 ## 🔧 Conteúdos Abordados
@@ -54,6 +57,25 @@ Este repositório documenta minha jornada de aprendizado em Java através do cur
   - **For**
     - Estrutura básica
     - Variações de uso
+   
+### Vetores ou Arrays
+- **Conceitos Básicos**
+  - Declaração e inicialização de arrays
+  - Acesso e manipulação de elementos
+      
+- **Exercícios Práticos**
+  - Implementação de algoritmos utilizando arrays
+ 
+### Exercícios
+- **Estruturas Condicionais**
+  - Implementação prática de `if/else` e `switch/case`
+    
+- **Laços de Repetição**
+  - Exemplos práticos utilizando `for` e `while`
+    
+- **Variáveis e Arrays**
+  - Trabalhando com variáveis, vetores e arrays
+
 
 ## 💻 Como Executar
 
