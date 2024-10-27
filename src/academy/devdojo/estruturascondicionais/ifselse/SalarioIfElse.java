@@ -2,7 +2,7 @@ package academy.devdojo.estruturascondicionais.ifselse;
 
 public class SalarioIfElse {
     public static void main(String[] args) {
-        float salary = 4600F;
+        float salary = 4450F;
         float result;
         String percentage = "";
         if (salary > 4500) {

@@ -15,8 +15,8 @@ public class TorneioNatacao {
             System.out.println(nome + " participará da categoria Juvenil.");
         } else if(idadeNome > 15 && idadeNome <= 19){
             System.out.println(nome + " participará da categoria Pré-adulto.");
-        } else if(idadeNome > 19){
-            System.out.println(nome + " participará da categoria academy.devdojo.estruturascondicionais.ifselse.Adulto.");
+        } else {
+            System.out.println(nome + " participará da categoria Adulto.");
         }
     }
 }
